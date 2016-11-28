@@ -3,9 +3,8 @@ title: MAD MAX for the Atari 2600
 layout: post
 
 id: "1"
-image: "/mad-max-atari-2600.jpg"
 price: 129.00
-path: "/atari-2600/"
+path: "/index/"
 description: "MAD MAX for the Atari 2600"
 ---
 Hey everyone I just spent a few hours hacking this I call it Mad Max like the movie.
