@@ -38,14 +38,14 @@ class MarkdownWrapper extends React.Component {
           data-item-description={post.description}
           data-item-url={"http://snipcart-gatsby.netlify.com" + post.path}
           style={{
-            display: 'block',
+            display: 'none',
             color: 'black',
             margin: '0 auto',
             width: '50px',
             border: '2px solid black',
             textAlign: 'center',
             marginBottom: rhythm(1),
-            marginTop: rhythm(1),
+            marginTop: rhythm(1)
           }}>Buy</a>
         <hr
           style={{

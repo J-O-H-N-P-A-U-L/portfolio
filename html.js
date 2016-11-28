@@ -2,10 +2,7 @@ import React from 'react'
 import Helmet from "react-helmet"
 import { prefixLink } from 'gatsby-helpers'
 import { GoogleFont, TypographyStyle } from 'react-typography'
-import Typography from './utils/typography'
-import funstonTheme from 'typography-theme-funston'
-
-const typography = new Typography(funstonTheme)
+import typography from './utils/typography'
 
 const BUILD_TIME = new Date().getTime()
 

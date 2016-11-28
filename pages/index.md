@@ -1,36 +1,111 @@
 ---
-title: MAD MAX for the Atari 2600
+title: 
 layout: post
 
 id: "1"
 price: 129.00
-path: "/index/"
-description: "MAD MAX for the Atari 2600"
+path: "/"
+description: "Portfolio"
 ---
-Hey everyone I just spent a few hours hacking this I call it Mad Max like the movie.
 
-You are Mad Max driving in your black car after the creeps that ran over everyone you ever knew including your wife and baby daughter.
 
-You were once an officer of the law but these creeps keep getting out and killing more people you are out to stop them from ever harming anyone else you are the Road Warrior!
+jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER") ~ [LinkedIn](https://www.linkedin.com/in/john-paul-hunter "LinkedIn - JPHUNTER") 
 
-They ride on their motor cycles towards you , you must run them down but watch out for the trucks if you hit too many trucks your car is destroyed and it's game over for you!
 
-This is a work in progress right now. I am working on.
 
-It is looking pretty nice, although I wish I could do big sprites like in Activision's Grand Prix.
+<div>
+    <div style="overflow: hidden;">
+       <div>
+            <p><strong>Senior Front-end Web Developer</strong> passionate about creating digital experiences.</p>
+       </div>
+    </div>
+    <div style="float:right; width: auto;">
+       <div>
+           <img height="200px" style="border-radius: 50%" src="https://github.com/JPHUNTER.png">
+       </div>
+    </div>
+</div>
 
-How they did that I don't know there is a limit 8 pixels wide for sprites.
 
-But still I did make everything look pretty good I think, just smaller than what I would like to have made.
+As a Senior Front-end Web Developer I am an expert in front-end technologies, process and tools. 
 
-The trucks look cool!
+I enjoy designing and building new capabilities relating to online systems.
+  
+My team members look to me for thought and project leadership in the context of software development.  
 
-I need to find out how to get rid of some of the shaking of Max's car.
+As a Senior Front-end Web Developer I have in-depth understanding of agile and waterfall software development life cycles as well as object oriented design principles and patterns. 
 
-It is hard since I am working against formerly 6 frames of animation so it can be any of those or all of those together.
 
-I do have it down though it is not shaking nearly as much as when I first did it, wow then it was blinking in different places that was bad!
+# Relevant experience
 
-It is nearly done and turned out pretty good but I am going to need to spend a lot of time on the words in the game and get them to say something about Max.
+## JB Hi-Fi
+#### www.jbhifi.com.au
+#### Web Developer (March 2015 – present)
 
-![MAD MAX 2 for the Atari 2600](./mad-max-atari-2600.jpg)
+JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
+
+Technologies: React, Redux, Flux, Relay, GraphQL, PostgreSQL, Postgrpahql, JavaScript, jQuery, AngularJS, SASS, SQL
+#### Selected Responsibilities and Contributions
+Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass and performed unit testing for new features on a successful rebranding project
+* built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
+* JavaScript (jQuery and Angular) Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
+* developed a new jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions
+* worked as a part of a Multi-Disciplinary team in a fast-paced Agile development environment
+* liaised with key stake holders and project owners to determine requirements and scope of works
+* introduced the Airbnb JavaScript Style Guide for all JB Hi-Fi Online front-end development, 
+giving JB Hi-Fi a standard by which to produce JavaScript.
+* created new features, to make updates to existing features using AngularJS, and to consume JSON microservices in an Agile environment. Responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
+Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass 
+* implemented automated functional unit tests for new features on the online webstore using Horseman, PhantomJS, mocha and chai
+
+## Colorado
+#### www.colorado.com.au
+#### Web Developer  
+#### 2012 to 2015
+
+Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
+#### Selected Responsibilities and Contributions:
+* JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
+* Development and support of proprietary middleware messaging broker system
+* Developed a new jQuery mobile driven Colorado web store www.colorado.com.au
+* Worked as a part of a Multi-Disciplinary team across many differing development projects
+
+## JAG
+#### www.jag.com.au
+#### Web Developer  
+#### 2012 to 2015
+Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
+#### Selected Responsibilities and Contributions:
+* JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
+* Development and support of proprietary middleware messaging broker system
+* Developed a new jQuery mobile driven Colorado web store www.colorado.com.au
+* Worked as a part of a Multi-Disciplinary team across many differing development projects
+
+## Betstar
+
+#### www.betstar.com.au
+#### Web Developer  
+#### 2010 to 2012
+Technologies: HTML5, CSS3, JavaScript, jQuery, .NET, SQL
+#### Selected Responsibilities and Contributions:
+•	Supported and enhanced proprietary web based wagering applications and websites, see www.betstar.com.au
+•	Development and support of requirements across all wagering and web applications.
+Participated with business management in determining the online strategic directions of the business.
+
+# Web
+
+I'm an experienced Front-end Web Developer, and have built and shipped apps using .NET, JavaScript and Postgres, using queues, caching, continuous integration etc. I even know some CSS.
+
+# More about me
+
+## Education
+
+Master of Multimedia(MMm) majoring in Computer Engineering.
+
+# Side projects
+
+When I'm not working I like to make things on the internet.
+
+[Guzzolene](https://www.guzzolene.com "")
+
+This site is built with Gatsby.js and Typography.js - thanks @kylemathews

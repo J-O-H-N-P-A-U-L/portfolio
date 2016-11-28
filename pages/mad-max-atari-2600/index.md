@@ -2,7 +2,7 @@
 title: MAD MAX for the Atari 2600
 layout: post
 
-id: "1"
+id: "2"
 image: "/mad-max-atari-2600.jpg"
 price: 129.00
 path: "/atari-2600/"
