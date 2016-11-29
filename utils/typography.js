@@ -1,5 +1,5 @@
 import Typography from 'typography'
-import Wordpress2016 from 'typography-theme-wordpress-2016'
+import Wordpress2016 from 'typography-theme-github'
 
 const typography = new Typography(Wordpress2016)
 
