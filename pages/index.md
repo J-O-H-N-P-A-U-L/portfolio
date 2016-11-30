@@ -69,7 +69,7 @@ Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.jag.com.au
 * development and support of proprietary middleware messaging broker system
-* developed a new jQuery mobile driven Colorado web store www.jag.com.au
+* developed a new jQuery mobile driven Jag web store www.jag.com.au
 * worked as a part of a Multi-Disciplinary team across many differing development projects
 
 ## Betstar
