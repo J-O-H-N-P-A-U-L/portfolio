@@ -18,7 +18,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
     </div>
     <div style="float:right; width: auto;">
        <div>
-           <img height="200px" style="border-radius: 50%" src="https://github.com/JPHUNTER.png">
+           <img height="200px" style="border-radius: 50%" src="https://github.com/JPHUNTER.jpg">
        </div>
     </div>
 </div>
