@@ -57,9 +57,9 @@ Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass
 Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
-* Development and support of proprietary middleware messaging broker system
-* Developed a new jQuery mobile driven Colorado web store www.colorado.com.au
-* Worked as a part of a Multi-Disciplinary team across many differing development projects
+* development and support of proprietary middleware messaging broker system
+* developed a new jQuery mobile driven Colorado web store www.colorado.com.au
+* worked as a part of a Multi-Disciplinary team across many differing development projects
 
 ## JAG
 #### www.jag.com.au
@@ -68,9 +68,9 @@ Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Ne
 Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
-* Development and support of proprietary middleware messaging broker system
-* Developed a new jQuery mobile driven Colorado web store www.colorado.com.au
-* Worked as a part of a Multi-Disciplinary team across many differing development projects
+* development and support of proprietary middleware messaging broker system
+* developed a new jQuery mobile driven Colorado web store www.colorado.com.au
+* worked as a part of a Multi-Disciplinary team across many differing development projects
 
 ## Betstar
 
@@ -79,9 +79,9 @@ Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Ne
 #### 2010 to 2012
 Technologies: HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Selected Responsibilities and Contributions:
-•	Supported and enhanced proprietary web based wagering applications and websites, see www.betstar.com.au
-•	Development and support of requirements across all wagering and web applications.
-Participated with business management in determining the online strategic directions of the business.
+* supported and enhanced proprietary web based wagering applications and websites, see www.betstar.com.au
+* development and support of requirements across all wagering and web applications.
+* participated with business management in determining the online strategic directions of the business.
 
 # Web
 
