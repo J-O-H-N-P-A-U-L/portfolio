@@ -1,5 +1,5 @@
 ---
-title: 
+title: JP
 layout: post
 
 id: "1"
@@ -16,7 +16,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>Senior Front-end Web Developer</strong> passionate about creating digital experiences.</p>
+            <p><strong>A Senior Front-end Web Developer</strong> passionate about creating digital experiences.</p>
        </div>
     </div>
     <div style="float:right; width: auto;">
@@ -26,14 +26,9 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
     </div>
 </div>
 
+I am an expert in front-end technologies, processes and tools. I thoroughly enjoy designing and building new capabilities relating to online systems.
 
-As a Senior Front-end Web Developer I am an expert in front-end technologies, process and tools. 
-
-I enjoy designing and building new capabilities relating to online systems.
-  
-My team members look to me for thought and project leadership in the context of software development.  
-
-As a Senior Front-end Web Developer I have in-depth understanding of agile and waterfall software development life cycles as well as object oriented design principles and patterns. 
+I have in-depth understanding of agile and waterfall software development life cycles as well as object-oriented design principles and patterns. My team members look to me for thought and project leadership in the context of software development.
 
 
 # Relevant experience
