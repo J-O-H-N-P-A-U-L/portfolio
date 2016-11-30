@@ -56,7 +56,7 @@ Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass
 
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
-* JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
+* JavaScript (jQuery) and VB .Net Development of www.colorado.com.au 
 * development and support of proprietary middleware messaging broker system
 * developed a new jQuery mobile driven Colorado web store www.colorado.com.au
 * worked as a part of a Multi-Disciplinary team across many differing development projects
@@ -67,9 +67,9 @@ Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass
 #### 2012 to 2015
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
-* JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
+* JavaScript (jQuery) and VB .Net Development of www.jag.com.au
 * development and support of proprietary middleware messaging broker system
-* developed a new jQuery mobile driven Colorado web store www.colorado.com.au
+* developed a new jQuery mobile driven Colorado web store www.jag.com.au
 * worked as a part of a Multi-Disciplinary team across many differing development projects
 
 ## Betstar
@@ -97,6 +97,6 @@ Master of Multimedia(MMm) majoring in Computer Engineering.
 
 When I'm not working I like to make things on the internet.
 
-[Guzzolene](https://www.guzzolene.com "")
+[Guzzolene](https://www.guzzolene.com "Guzzolene")
 
 This site is built with Gatsby.js and Typography.js - thanks @kylemathews
