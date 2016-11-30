@@ -35,7 +35,7 @@ I have in-depth understanding of agile and waterfall software development life c
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
 
-Technologies: React, Redux, Flux, Relay, GraphQL, PostgreSQL, Postgrpahql, JavaScript, jQuery, AngularJS, SASS, SQL
+**Technologies:** React, Redux, Flux, Relay, GraphQL, PostgreSQL, Postgrpahql, JavaScript, jQuery, AngularJS, SASS, SQL
 #### Selected Responsibilities and Contributions
 Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass and performed unit testing for new features on a successful rebranding project
 * built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
@@ -54,7 +54,7 @@ Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass
 #### Web Developer  
 #### 2012 to 2015
 
-Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
+**Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
 * development and support of proprietary middleware messaging broker system
@@ -65,7 +65,7 @@ Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Ne
 #### www.jag.com.au
 #### Web Developer  
 #### 2012 to 2015
-Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
+**Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of the FRB Shared websites including www.colorado.com.au, www.dianaferrari.com.au, www.jag.com.au, www.mathers.com.au and www.williamsshoes.com.au 
 * development and support of proprietary middleware messaging broker system
@@ -77,7 +77,7 @@ Technologies: JavaScript, jQuery, SASS, SQL and some development with ASP C# .Ne
 #### www.betstar.com.au
 #### Web Developer  
 #### 2010 to 2012
-Technologies: HTML5, CSS3, JavaScript, jQuery, .NET, SQL
+**Technologies:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Selected Responsibilities and Contributions:
 * supported and enhanced proprietary web based wagering applications and websites, see www.betstar.com.au
 * development and support of requirements across all wagering and web applications.
