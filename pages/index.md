@@ -119,7 +119,7 @@ www.astorhostels.co.uk
 ## Impressions
 #### IT Manager (2001 to 2002)
 **Technologies:** HTML, CSS, JavaScript, Classic ASP, SQL Server, FoxPro
-####Selected Responsibilities and Contributions:
+#### Selected Responsibilities and Contributions:
 * Managed the IT department, motivate staff, and effectively communicate plans projects and projects through to upper management.
  
 ## M+K Solicitors
