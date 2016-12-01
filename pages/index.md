@@ -77,12 +77,9 @@ giving JB Hi-Fi a standard by which to produce JavaScript.
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.jag.com.au
-* development and support of proprietary middleware messaging broker system
-* developed a new jQuery mobile driven Jag web store www.jag.com.au
-* worked as a part of a Multi-Disciplinary team across many differing development projects
+![Jag](./images/jag.png "Jag")
 
 ## Betstar
-
 #### www.betstar.com.au
 #### Web Developer  
 #### 2010 to 2012
