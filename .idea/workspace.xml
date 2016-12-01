@@ -26,7 +26,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="142">
-                <caret line="10" column="229" lean-forward="false" selection-start-line="10" selection-start-column="229" selection-end-line="10" selection-end-column="229" />
+                <caret line="10" column="212" lean-forward="false" selection-start-line="10" selection-start-column="212" selection-end-line="10" selection-end-column="212" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -363,7 +363,7 @@
       <workItem from="1479550298057" duration="6491000" />
       <workItem from="1479950291874" duration="718000" />
       <workItem from="1480328998731" duration="5151000" />
-      <workItem from="1480416248625" duration="12645000" />
+      <workItem from="1480416248625" duration="12745000" />
     </task>
     <task id="LOCAL-00001" summary="update blog name">
       <created>1479375164339</created>
@@ -680,11 +680,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480585518299</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="update typography">
+      <created>1480585895928</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1480585895928</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35708000" />
+    <option name="totallyTimeSpent" value="35808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="81" width="1351" height="663" extended-state="0" />
@@ -941,7 +948,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="142">
-            <caret line="10" column="229" lean-forward="false" selection-start-line="10" selection-start-column="229" selection-end-line="10" selection-end-column="229" />
+            <caret line="10" column="212" lean-forward="false" selection-start-line="10" selection-start-column="212" selection-end-line="10" selection-end-column="212" />
             <folding />
           </first_editor>
           <second_editor />

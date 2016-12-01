@@ -8,7 +8,7 @@ path: "/"
 description: "Portfolio"
 ---
 
-www.johnpaulhunter.com ~ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER") ~ [LinkedIn](https://www.linkedin.com/in/john-paul-hunter "LinkedIn - JPHUNTER") ~ [0478 565 404](0478 565 404 "0478565404") 
+www.johnpaulhunter.com ~ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER") ~ [LinkedIn](https://www.linkedin.com/in/john-paul-hunter "LinkedIn - JPHUNTER") ~ [0478 565 404](0478565404 "0478565404") 
 
 <div>
     <div style="overflow: hidden;">
