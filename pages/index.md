@@ -135,5 +135,6 @@ Master of Multimedia(MMm) majoring in Computer Engineering.
 I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I might even know some CSS.
 ## Side projects
 When I'm not working I like to make things on the internet.
+[Guzzolene (under construction)](https://www.guzzolene.com "Guzzolene")
 
 This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js")
