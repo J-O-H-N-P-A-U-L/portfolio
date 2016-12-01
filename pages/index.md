@@ -103,6 +103,6 @@ Master of Multimedia(MMm) majoring in Computer Engineering.
 # Side projects
 When I'm not working I like to make things on the internet.
 
-[Guzzolene (under construction ;) )](https://www.guzzolene.com "Guzzolene")
+[Guzzolene (under construction)](https://www.guzzolene.com "Guzzolene")
 
 The end (for now...)
