@@ -8,7 +8,7 @@ path: "/"
 description: "Portfolio"
 ---
 
-jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER") ~ [LinkedIn](https://www.linkedin.com/in/john-paul-hunter "LinkedIn - JPHUNTER") 
+www.johnpaulhunter.com ~ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER") ~ [LinkedIn](https://www.linkedin.com/in/john-paul-hunter "LinkedIn - JPHUNTER") 
 
 <div>
     <div style="overflow: hidden;">
@@ -89,17 +89,52 @@ www.betstar.com.au.
 * Supported and enhanced proprietary web based wagering applications and websites
 * participated with business management in determining the online strategic directions of the business.
 
-# Web Development
-I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I even know some CSS.
+
+## Hobsons
+#### www.hobsons.com.au
+#### Online Developer (2008 to 2010)
+**Technologies:** HTML, CSS, JavaScript, .NET, SQL, XML
+####Selected Responsibilities and Contributions:
+* Responsible for web development and online support
+* ensured the quality and effectiveness of online and campaign work though appropriate processes and checks
+* researched and administered online solutions to support business initiatives and responsible for maintaining these solutions.
+
+## Communications Management
+#### Web Systems Developer (2004 to 2008)
+**Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
+####Selected Responsibilities and Contributions:
+* Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
+* evaluated, audited and analysed the business and user needs to specify what were to be included in the interactive systems and identify how the information was to be organised
+* supported corporate infrastructures including Exchange, file and SQL Servers, network printers, firewalls, antivirus and any and all other related systems.
+
+## Astor Hostels – London
+#### Web Master (2002 to 2004)
+**Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL,
+www.astorhostels.co.uk
+
+####Selected Responsibilities and Contributions:
+*	Development and support of HTML and JavaScript based web sites
+*	implemented a new booking engine to handle the hostels beds
+*	implemented a state of the art CCTV system with web streaming capabilities.
+
+## Impressions
+#### IT Manager (2001 to 2002)
+**Technologies:** HTML, CSS, JavaScript, Classic ASP, SQL Server, FoxPro
+####Selected Responsibilities and Contributions:
+* Managed the IT department, motivate staff, and effectively communicate plans projects and projects through to upper management.
+ 
+## M+K Solicitors
+####Systems and Networks Administrator (1998 to 2001)
+####Selected Responsibilities and Contributions:
+•	Responsible for the maintenance and upkeep of a 250+ user environment, providing helpdesk and network support
+•	supported corporate infrastructures Exchange, file and SQL Servers, network printers, firewalls, antivirus and any and all other related systems.
 
 # More about me
-
 ## Education
 Master of Multimedia(MMm) majoring in Computer Engineering.
-
-# Side projects
+## Web Development
+I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I might even know some CSS.
+## Side projects
 When I'm not working I like to make things on the internet.
-
 [Guzzolene (under construction)](https://www.guzzolene.com "Guzzolene")
 
-The end (for now...)
