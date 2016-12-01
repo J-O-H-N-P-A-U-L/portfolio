@@ -89,12 +89,11 @@ www.betstar.com.au.
 * Supported and enhanced proprietary web based wagering applications and websites
 * participated with business management in determining the online strategic directions of the business.
 
-
 ## Hobsons
 #### www.hobsons.com.au
 #### Online Developer (2008 to 2010)
 **Technologies:** HTML, CSS, JavaScript, .NET, SQL, XML
-####Selected Responsibilities and Contributions:
+#### Selected Responsibilities and Contributions:
 * Responsible for web development and online support
 * ensured the quality and effectiveness of online and campaign work though appropriate processes and checks
 * researched and administered online solutions to support business initiatives and responsible for maintaining these solutions.
@@ -102,7 +101,7 @@ www.betstar.com.au.
 ## Communications Management
 #### Web Systems Developer (2004 to 2008)
 **Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
-####Selected Responsibilities and Contributions:
+#### Selected Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
 * evaluated, audited and analysed the business and user needs to specify what were to be included in the interactive systems and identify how the information was to be organised
 * supported corporate infrastructures including Exchange, file and SQL Servers, network printers, firewalls, antivirus and any and all other related systems.
@@ -112,7 +111,7 @@ www.betstar.com.au.
 **Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL,
 www.astorhostels.co.uk
 
-####Selected Responsibilities and Contributions:
+#### Selected Responsibilities and Contributions:
 *	Development and support of HTML and JavaScript based web sites
 *	implemented a new booking engine to handle the hostels beds
 *	implemented a state of the art CCTV system with web streaming capabilities.
@@ -124,10 +123,10 @@ www.astorhostels.co.uk
 * Managed the IT department, motivate staff, and effectively communicate plans projects and projects through to upper management.
  
 ## M+K Solicitors
-####Systems and Networks Administrator (1998 to 2001)
-####Selected Responsibilities and Contributions:
-•	Responsible for the maintenance and upkeep of a 250+ user environment, providing helpdesk and network support
-•	supported corporate infrastructures Exchange, file and SQL Servers, network printers, firewalls, antivirus and any and all other related systems.
+#### Systems and Networks Administrator (1998 to 2001)
+#### Selected Responsibilities and Contributions:
+*	Responsible for the maintenance and upkeep of a 250+ user environment, providing helpdesk and network support
+*	supported corporate infrastructures Exchange, file and SQL Servers, network printers, firewalls, antivirus and any and all other related systems.
 
 # More about me
 ## Education

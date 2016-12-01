@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a091d86c-79aa-4659-a3d9-d420f5dc62ae" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.md" afterPath="$PROJECT_DIR$/pages/index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/pages/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <first_editor relative-caret-position="282">
+                <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -362,7 +363,7 @@
       <workItem from="1479550298057" duration="6491000" />
       <workItem from="1479950291874" duration="718000" />
       <workItem from="1480328998731" duration="5151000" />
-      <workItem from="1480416248625" duration="10582000" />
+      <workItem from="1480416248625" duration="10778000" />
     </task>
     <task id="LOCAL-00001" summary="update blog name">
       <created>1479375164339</created>
@@ -602,11 +603,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480583082101</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="update typography">
+      <created>1480583095642</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1480583095642</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33645000" />
+    <option name="totallyTimeSpent" value="33841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="81" width="1351" height="663" extended-state="0" />
@@ -862,8 +870,8 @@
     <entry file="file://$PROJECT_DIR$/pages/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <first_editor relative-caret-position="282">
+            <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
