@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/pages/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="241">
-                <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+              <first_editor relative-caret-position="299">
+                <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -346,7 +346,7 @@
       <workItem from="1479550298057" duration="6491000" />
       <workItem from="1479950291874" duration="718000" />
       <workItem from="1480328998731" duration="5151000" />
-      <workItem from="1480416248625" duration="2603000" />
+      <workItem from="1480416248625" duration="2943000" />
     </task>
     <task id="LOCAL-00001" summary="update blog name">
       <created>1479375164339</created>
@@ -453,11 +453,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480495904895</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="update typography">
+      <created>1480495962405</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1480495962405</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25666000" />
+    <option name="totallyTimeSpent" value="26006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="81" width="1351" height="663" extended-state="0" />
@@ -708,8 +715,8 @@
     <entry file="file://$PROJECT_DIR$/pages/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="241">
-            <caret line="71" column="42" lean-forward="false" selection-start-line="71" selection-start-column="42" selection-end-line="71" selection-end-column="42" />
+          <first_editor relative-caret-position="299">
+            <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
             <folding />
           </first_editor>
           <second_editor />

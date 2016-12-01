@@ -23,7 +23,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
     </div>
 </div>
 
-I am an expert in front-end technologies, processes and tools. I thoroughly enjoy designing and building new capabilities relating to online systems.
+I am an expert in front end technologies, processes and tools. I thoroughly enjoy designing and building new capabilities relating to online systems.
 
 I have in-depth understanding of agile and waterfall software development life cycles as well as object-oriented design principles and patterns. My team members look to me for thought and project leadership in the context of software development.
 
