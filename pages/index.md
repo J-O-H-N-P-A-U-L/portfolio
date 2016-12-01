@@ -46,7 +46,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 
 * Developed a jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions.
 ![JB Hi-Fi](./images/jb_solutions.png "JB Hi-Fi Solutions")
-* Duilt a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
+* Built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
 ![JB Hi-Fi](./images/react_relay.png "JB Hi-Fi Mission Control")
 
 #### Additional Responsibilities and Contributions
@@ -58,8 +58,7 @@ giving JB Hi-Fi a standard by which to produce JavaScript
 
 ## Colorado
 #### www.colorado.com.au
-#### Web Developer  
-#### 2012 to 2015
+#### Web Developer (2012 to 2015)
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.colorado.com.au. 
@@ -71,8 +70,7 @@ giving JB Hi-Fi a standard by which to produce JavaScript
 
 ## JAG
 #### www.jag.com.au
-#### Web Developer  
-#### 2012 to 2015
+#### Web Developer (2012 to 2015)
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net.
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.jag.com.au.
@@ -80,8 +78,7 @@ giving JB Hi-Fi a standard by which to produce JavaScript
 
 ## Betstar
 #### www.betstar.com.au
-#### Web Developer  
-#### 2010 to 2012
+#### Web Developer (2010 to 2012)
 **Technologies:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Selected Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications.
