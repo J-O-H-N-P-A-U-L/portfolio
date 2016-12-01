@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>A Senior Front-end Web Developer</strong> passionate about creating digital experiences.</p>
+            <p><strong>A Creative Technologist</strong> passionate about creating digital experiences.</p>
        </div>
     </div>
     <div style="float:right; width: auto;">
@@ -86,23 +86,23 @@ giving JB Hi-Fi a standard by which to produce JavaScript.
 **Technologies:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Selected Responsibilities and Contributions:
 * supported and enhanced proprietary web based wagering applications and websites, see www.betstar.com.au
+#### Additional Responsibilities and Contributions
 * development and support of requirements across all wagering and web applications.
+![Jag](./images/betstar.png "Betstar")
 * participated with business management in determining the online strategic directions of the business.
 
 # Web
 
-I'm an experienced Front-end Web Developer, and have built and shipped apps using .NET, JavaScript and Postgres, using queues, caching, continuous integration etc. I even know some CSS.
+I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I even know some CSS.
 
 # More about me
 
 ## Education
-
 Master of Multimedia(MMm) majoring in Computer Engineering.
 
 # Side projects
-
 When I'm not working I like to make things on the internet.
 
-[Guzzolene](https://www.guzzolene.com "Guzzolene")
+[Guzzolene (under construction ;) )](https://www.guzzolene.com "Guzzolene")
 
 This site is built with Gatsby.js and Typography.js - thanks @kylemathews
