@@ -136,4 +136,4 @@ I'm an experienced Creative Technologist and have built and shipped apps using n
 ## Side projects
 When I'm not working I like to make things on the internet.
 
-This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js") - thanks @kylemathews
+This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js")
