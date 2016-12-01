@@ -131,7 +131,9 @@ www.astorhostels.co.uk
 # More about me
 ## Education
 Swinburne University of Technology
+
 Master of Multimedia(MMm) with a major in Computer Engineering
+
 Completed in 2012
 ## Web Development
 I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I might even know some CSS.
