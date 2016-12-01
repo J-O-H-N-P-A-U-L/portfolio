@@ -32,23 +32,29 @@ I have in-depth understanding of agile and waterfall software development life c
 ## JB Hi-Fi
 #### www.jbhifi.com.au
 #### Web Developer (March 2015 – present)
-
-JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
-![JB Hi-Fi](./images/jb.png "JB Hi-Fi")
 **Technologies:** React, Redux, Flux, Relay, GraphQL, PostgreSQL, Postgrpahql, JavaScript, jQuery, AngularJS, SASS, SQL
 
-#### Selected Responsibilities and Contributions
-Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass and performed unit testing for new features on a successful rebranding project
+
+JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
+ #### Selected Responsibilities and Contributions
+ 
+* Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
+* created new features and made updates to existing features using AngularJS and jQuery to consume microservices in an Agile environment
+* responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
+* wrote JavaScript/JQuery/AngularJS, HTML5, and CSS3/Sass 
+![JB Hi-Fi](./images/jb.png "JB Hi-Fi")
+
+* developed a jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions
+![JB Hi-Fi](./images/jb_solutions.png "JB Hi-Fi Solutions")
 * built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
-* JavaScript (jQuery and Angular) Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
-* developed a new jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions
+![JB Hi-Fi](./images/react_relay.png "JB Hi-Fi Mission Control")
+
+#### Additional Responsibilities and Contributions
 * worked as a part of a Multi-Disciplinary team in a fast-paced Agile development environment
 * liaised with key stake holders and project owners to determine requirements and scope of works
 * introduced the Airbnb JavaScript Style Guide for all JB Hi-Fi Online front-end development, 
 giving JB Hi-Fi a standard by which to produce JavaScript.
-* created new features, to make updates to existing features using AngularJS, and to consume JSON microservices in an Agile environment. Responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
-Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass 
-* implemented automated functional unit tests for new features on the online webstore using Horseman, PhantomJS, mocha and chai
+* employed nightmare.js, mocha and chai to implement automated front-end functional unit tests for features for the JB Hi-Fi Online store
 
 ## Colorado
 #### www.colorado.com.au
