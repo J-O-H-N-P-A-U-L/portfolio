@@ -22,7 +22,7 @@ class MarkdownWrapper extends React.Component {
         <div dangerouslySetInnerHTML={{ __html: post.body }} />
         <em
           style={{
-            display: 'block',
+            display: 'none',
             marginBottom: rhythm(2),
           }}
         >
