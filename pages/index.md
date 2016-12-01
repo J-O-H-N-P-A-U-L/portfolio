@@ -34,8 +34,9 @@ I have in-depth understanding of agile and waterfall software development life c
 #### Web Developer (March 2015 – present)
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
-
+![JB Hi-Fi](./images/jb.png "JB Hi-Fi")
 **Technologies:** React, Redux, Flux, Relay, GraphQL, PostgreSQL, Postgrpahql, JavaScript, jQuery, AngularJS, SASS, SQL
+
 #### Selected Responsibilities and Contributions
 Wrote JavaScript/AngularJS, HTML5, and CSS3/Sass and performed unit testing for new features on a successful rebranding project
 * built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS
