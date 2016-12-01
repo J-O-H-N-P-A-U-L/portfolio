@@ -50,9 +50,9 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 ![JB Hi-Fi](./images/react_relay.png "JB Hi-Fi Mission Control")
 
 #### Additional Responsibilities and Contributions
-* worked as a part of a Multi-Disciplinary team in a fast-paced Agile development environment
+* worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
 * liaised with key stake holders and project owners to determine requirements and scope of works
-* introduced the Airbnb JavaScript Style Guide for all JB Hi-Fi Online front-end development, 
+* introduced the Airbnb JavaScript style guide for all JB Hi-Fi Online front-end development, 
 giving JB Hi-Fi a standard by which to produce JavaScript.
 * employed nightmare.js, mocha and chai to implement automated front-end functional unit tests for features for the JB Hi-Fi Online store
 
@@ -64,9 +64,11 @@ giving JB Hi-Fi a standard by which to produce JavaScript.
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.colorado.com.au 
+![Colorado](./images/colorado.png "Colorado")
+
+#### Additional Responsibilities and Contributions
+* developed a jQuery mobile driven Colorado web store
 * development and support of proprietary middleware messaging broker system
-* developed a new jQuery mobile driven Colorado web store www.colorado.com.au
-* worked as a part of a Multi-Disciplinary team across many differing development projects
 
 ## JAG
 #### www.jag.com.au
