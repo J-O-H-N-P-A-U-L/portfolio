@@ -54,7 +54,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 * liaised with key stake holders and project owners to determine requirements and scope of works
 * introduced the Airbnb JavaScript style guide for all JB Hi-Fi Online front-end development, 
 giving JB Hi-Fi a standard by which to produce JavaScript
-* employed nightmare.js, mocha and chai to implement automated front-end functional unit tests for features for the JB Hi-Fi Online store.
+* employed webdriverio, mocha, cucumber and chai to implement automated front-end functional unit tests for features for the JB Hi-Fi Online store.
 
 ## Colorado
 #### www.colorado.com.au
