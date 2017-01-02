@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a091d86c-79aa-4659-a3d9-d420f5dc62ae" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/mad-max-atari-2600/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/mad-max-atari-2600/mad-max-atari-2600.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.md" afterPath="$PROJECT_DIR$/pages/index.md" />
     </list>
@@ -38,7 +36,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="635">
-                <caret line="140" column="105" lean-forward="false" selection-start-line="140" selection-start-column="105" selection-end-line="140" selection-end-column="105" />
+                <caret line="140" column="100" lean-forward="false" selection-start-line="140" selection-start-column="100" selection-end-line="140" selection-end-column="100" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -285,14 +283,7 @@
       <workItem from="1480328998731" duration="5151000" />
       <workItem from="1480416248625" duration="13126000" />
       <workItem from="1481170240550" duration="1164000" />
-      <workItem from="1483360916096" duration="322000" />
-    </task>
-    <task id="LOCAL-00002" summary="update API key">
-      <created>1479375596854</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1479375596854</updated>
+      <workItem from="1483360916096" duration="455000" />
     </task>
     <task id="LOCAL-00003" summary="update typography">
       <created>1479376271311</created>
@@ -630,11 +621,18 @@
       <option name="project" value="LOCAL" />
       <updated>1481170506763</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="update typography">
+      <created>1483361241901</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1483361241901</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37675000" />
+    <option name="totallyTimeSpent" value="37808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -938,7 +936,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="635">
-            <caret line="140" column="105" lean-forward="false" selection-start-line="140" selection-start-column="105" selection-end-line="140" selection-end-column="105" />
+            <caret line="140" column="100" lean-forward="false" selection-start-line="140" selection-start-column="100" selection-end-line="140" selection-end-column="100" />
             <folding />
           </first_editor>
           <second_editor />
