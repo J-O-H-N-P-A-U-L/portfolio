@@ -138,8 +138,8 @@ Completed in 2012
 ## Web Development
 I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I might even know some CSS.
 ## Side projects
-When I'm not working I like to make things on the internet.
-
-[Guzzolene (under construction)](https://www.guzzolene.com "Guzzolene")
+When I'm not working on the internet, I like to build things on retro tech. Specifically, I've resenctly been delving into the realm of Atari 2600 and Atari Lynx games programming using C++, Assembly code and the CC65 (Cc65 is a compiler for the 6502 which is the processor of the Atari Lynx.) 
+If youre interested in reading about my adventures, I implore you to visit my personal blog:
+[Guzzolene](https://www.guzzolene.com "Guzzolene")
 
 This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js")
