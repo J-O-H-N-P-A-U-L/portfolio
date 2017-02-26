@@ -39,7 +39,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
  #### Selected Responsibilities and Contributions
  
 * Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
-* supported exisiting stack using AngularJS and jQuery
+* supported existing stack using AngularJS and jQuery
 * spiked new concept using Ruby and Middleman with Contentful CMS to generate dynamic product management capabilities in a static e-commerce workflow
 * implemented a new functional testing framework for the Front-End using WebdriverIO and Cucumber
 * implemented a new unit testing framework for the Front-End using Karma, Mocha, Chai and Sinon
