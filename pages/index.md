@@ -31,17 +31,20 @@ I have in-depth understanding of agile and waterfall software development life c
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
-#### Web Developer (March 2015 – present)
-**Technologies:** Node, React, Redux, Flux, Relay, GraphQL, PostgreSQL, Postgrpahql, JavaScript, jQuery, AngularJS, SASS, SQL
+#### Front End Developer (March 2015 – present)
+**Technologies:** JavaScript, jQuery, AJAX, Node, React, Relay, GraphQL, AngularJS, Ruby, Middleman, WebdriverIO, Cucumber, Karma, Mocha, Chai, Sinon
 
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  #### Selected Responsibilities and Contributions
  
 * Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
-* created new features and made updates to existing features using AngularJS and jQuery to consume microservices in an Agile environment
-* responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
-* wrote JavaScript/JQuery/AngularJS, HTML5, and CSS3/Sass.
+* supported exisiting stack using AngularJS and jQuery
+* spiked new concept using Ruby and Middleman with Contentful CMS to generate dynamic product management capabilities in a static e-commerce workflow
+* implemented a new functional testing framework for the Front-End using WebdriverIO and Cucumber
+* implemented a new unit testing framework for the Front-End using Karma, Mocha, Chai and Sinon
+* implemented the Airbnb JavaScript style guide for all JB Hi-Fi Online front-end development, giving JB Hi-Fi the standard by which to produce JavaScript
+
 ![JB Hi-Fi](./images/jb.png "JB Hi-Fi")
 
 * Developed a jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions.
@@ -52,9 +55,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 #### Additional Responsibilities and Contributions
 * Worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
 * liaised with key stake holders and project owners to determine requirements and scope of works
-* introduced the Airbnb JavaScript style guide for all JB Hi-Fi Online front-end development, 
-giving JB Hi-Fi a standard by which to produce JavaScript
-* employed webdriverio, mocha, cucumber and chai to implement automated front-end functional unit tests for features for the JB Hi-Fi Online store.
+* responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
 
 ## Colorado
 #### www.colorado.com.au
