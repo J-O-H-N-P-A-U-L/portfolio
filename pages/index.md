@@ -59,7 +59,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 
 ## Colorado
 #### www.colorado.com.au
-#### Web Developer (2012 to 2015)
+#### Front End Developer (2012 to 2015)
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.colorado.com.au. 
@@ -71,7 +71,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 
 ## JAG
 #### www.jag.com.au
-#### Web Developer (2012 to 2015)
+#### Front End Developer (2012 to 2015)
 **Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net.
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.jag.com.au.
@@ -79,7 +79,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 
 ## Betstar
 #### www.betstar.com.au
-#### Web Developer (2010 to 2012)
+#### Front End Developer (2010 to 2012)
 **Technologies:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Selected Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications.
@@ -92,7 +92,7 @@ www.betstar.com.au.
 
 ## Hobsons
 #### www.hobsons.com.au
-#### Online Developer (2008 to 2010)
+#### Front End Developer (2008 to 2010)
 **Technologies:** HTML, CSS, JavaScript, .NET, SQL, XML
 #### Selected Responsibilities and Contributions:
 * Responsible for web development and online support
@@ -100,7 +100,7 @@ www.betstar.com.au.
 * researched and administered online solutions to support business initiatives and responsible for maintaining these solutions.
 
 ## Communications Management
-#### Web Systems Developer (2004 to 2008)
+#### Web Developer (2004 to 2008)
 **Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
 #### Selected Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
@@ -139,8 +139,8 @@ Completed in 2012
 ## Web Development
 I'm an experienced Creative Technologist and have built and shipped apps using node, JavaScript and .NET and SQL Postgres, using queues, caching, continuous integration etc. I might even know some CSS.
 ## Side projects
-When I'm not working on the internet, I like to build things on retro tech. Specifically, I've recently been delving into the realm of Atari 2600 and Atari Lynx games programming using C++, Assembly code and the CC65 (Cc65 is a compiler for the 6502 which is the processor of the Atari Lynx.) 
-If youre interested in reading about my adventures, I implore you to visit my personal blog:
+When I'm not working on the internet, I love to delve into the obscure and long-forgotten. More recently been delving into the realm of Atari 2600 and Atari Lynx games programming using C++, Assembly code and the CC65 (Cc65 is a compiler for the 6502 which is the processor of the Atari Lynx.) 
+If youre interested in reading about my adventures, You ought to check out my blog @
 [Guzzolene](https://www.guzzolene.com "Guzzolene")
 
 This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js")

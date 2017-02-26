@@ -35,8 +35,8 @@
         <entry file="file://$PROJECT_DIR$/pages/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="388">
-                <caret line="42" column="59" lean-forward="false" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+              <first_editor relative-caret-position="650">
+                <caret line="142" column="84" lean-forward="false" selection-start-line="142" selection-start-column="84" selection-end-line="142" selection-end-column="84" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -286,14 +286,7 @@
       <workItem from="1483360916096" duration="1407000" />
       <workItem from="1483396189205" duration="517000" />
       <workItem from="1483586060263" duration="183000" />
-      <workItem from="1488098297341" duration="1122000" />
-    </task>
-    <task id="LOCAL-00005" summary="update typography">
-      <created>1480416795761</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1480416795761</updated>
+      <workItem from="1488098297341" duration="1450000" />
     </task>
     <task id="LOCAL-00006" summary="update typography">
       <created>1480489578268</created>
@@ -631,11 +624,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488099392061</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="update current role at JB Hi-Fi">
+      <created>1488099431119</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1488099431119</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40582000" />
+    <option name="totallyTimeSpent" value="40910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1010,8 +1010,8 @@
     <entry file="file://$PROJECT_DIR$/pages/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="388">
-            <caret line="42" column="59" lean-forward="false" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+          <first_editor relative-caret-position="650">
+            <caret line="142" column="84" lean-forward="false" selection-start-line="142" selection-start-column="84" selection-end-line="142" selection-end-column="84" />
             <folding />
           </first_editor>
           <second_editor />
