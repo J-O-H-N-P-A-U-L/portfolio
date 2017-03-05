@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a091d86c-79aa-4659-a3d9-d420f5dc62ae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/jb_rocks.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/images/jb_rocks.jpg" afterPath="$PROJECT_DIR$/pages/images/jb_rocks.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -305,14 +305,7 @@
       <workItem from="1483396189205" duration="517000" />
       <workItem from="1483586060263" duration="183000" />
       <workItem from="1488098297341" duration="2038000" />
-      <workItem from="1488699036734" duration="373000" />
-    </task>
-    <task id="LOCAL-00009" summary="update typography">
-      <created>1480489696687</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1480489696687</updated>
+      <workItem from="1488699036734" duration="472000" />
     </task>
     <task id="LOCAL-00010" summary="update typography">
       <created>1480489907761</created>
@@ -650,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488699354942</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="update current role at JB Hi-Fi">
+      <created>1488699442670</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1488699442670</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41871000" />
+    <option name="totallyTimeSpent" value="41970000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
