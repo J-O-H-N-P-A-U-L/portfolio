@@ -41,17 +41,15 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 * Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
 * supported existing stack using AngularJS and jQuery
 * spiked new concept using Ruby and Middleman with Contentful CMS to generate dynamic product management capabilities in a static e-commerce workflow
+![JB Hi-Fi](./images/jb_rocks.jpg "JB Rocks!")
 * implemented a new functional testing framework for the Front-End using WebdriverIO and Cucumber
 * implemented a new unit testing framework for the Front-End using Karma, Mocha, Chai and Sinon
 * implemented the Airbnb JavaScript style guide for all JB Hi-Fi Online front-end development, giving JB Hi-Fi the standard by which to produce JavaScript
 
 ![JB Hi-Fi](./images/jb.png "JB Hi-Fi")
 
-* Produced a prototype for JB demonstrating dynamic product management in a static e-commerce workflow using Contentful and Middleman (Ruby)
-![JB Hi-Fi](./images/jb_solutions.png "JB Hi-Fi Solutions")
-
 * Developed a jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions.
-![JB Hi-Fi](./images/jb_rocks.jpg "JB Rocks!")
+![JB Hi-Fi](./images/jb_solutions.png "JB Hi-Fi Solutions")
 * Built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
 ![JB Hi-Fi](./images/react_relay.png "JB Hi-Fi Mission Control")
 
