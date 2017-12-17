@@ -305,14 +305,7 @@
       <workItem from="1483586060263" duration="183000" />
       <workItem from="1488098297341" duration="2038000" />
       <workItem from="1488699036734" duration="713000" />
-      <workItem from="1489293997103" duration="113000" />
-    </task>
-    <task id="LOCAL-00012" summary="update typography">
-      <created>1480490059815</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1480490059815</updated>
+      <workItem from="1489293997103" duration="150000" />
     </task>
     <task id="LOCAL-00013" summary="update typography">
       <created>1480495309247</created>
@@ -650,11 +643,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488699749048</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="update current role at JB Hi-Fi">
+      <created>1489294117813</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1489294117813</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42324000" />
+    <option name="totallyTimeSpent" value="42361000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />

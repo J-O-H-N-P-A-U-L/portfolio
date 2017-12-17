@@ -38,20 +38,16 @@ I have in-depth understanding of agile and waterfall software development life c
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  #### Selected Responsibilities and Contributions
  
-* Development of the JB Hi-Fi Retail Website www.jbhifi.com.au
-* supported existing stack using AngularJS and jQuery
-* spiked new concept using Ruby and Middleman with Contentful CMS to generate dynamic product management capabilities in a static e-commerce workflow
-![JB Hi-Fi](./images/jb_rocks.jpg "JB Rocks!")
-* implemented a new functional testing framework for the Front-End using WebdriverIO and Cucumber
-* implemented a new unit testing framework for the Front-End using Karma, Mocha, Chai and Sinon
-* implemented the Airbnb JavaScript style guide for all JB Hi-Fi Online front-end development, giving JB Hi-Fi the standard by which to produce JavaScript
-
-![JB Hi-Fi](./images/jb.png "JB Hi-Fi")
+* Develop the JB Hi-Fi Retail Website www.jbhifi.com.au
+* Support the existing stack (.NET, AngularJS and jQuery)
+* Successfully Implemented a new, decoupled, React based checkout system to provide a whole new range of delivery options. 
+* Lifehacker write up on this can be seen at:
+https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
+![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
 
 * Developed a jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions.
 ![JB Hi-Fi](./images/jb_solutions.png "JB Hi-Fi Solutions")
-* Built a Mission Control system Integrated with React, Relay, GraphQL, PostgreSQL, Postgraphql, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
-![JB Hi-Fi](./images/react_relay.png "JB Hi-Fi Mission Control")
+
 
 #### Additional Responsibilities and Contributions
 * Worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
