@@ -45,7 +45,6 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 ![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
 
 
-
 * Developed a jQuery and Bootstrap site for JB Solutions Site www.jbhifi.com.au/solutions.
 ![JB Hi-Fi](./images/jb_solutions.png "JB Solutions")
 
@@ -58,7 +57,7 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 ## Colorado
 #### www.colorado.com.au
 #### Front End Developer (2012 to 2015)
-**Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
+**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.colorado.com.au. 
 ![Colorado](./images/colorado.png "Colorado")
@@ -70,7 +69,7 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 ## JAG
 #### www.jag.com.au
 #### Front End Developer (2012 to 2015)
-**Technologies:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net.
+**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net.
 #### Selected Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.jag.com.au.
 ![Jag](./images/jag.png "Jag")
@@ -78,7 +77,7 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 ## Betstar
 #### www.betstar.com.au
 #### Front End Developer (2010 to 2012)
-**Technologies:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
+**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Selected Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications.
 www.betstar.com.au.
@@ -91,7 +90,7 @@ www.betstar.com.au.
 ## Hobsons
 #### www.hobsons.com.au
 #### Front End Developer (2008 to 2010)
-**Technologies:** HTML, CSS, JavaScript, .NET, SQL, XML
+**Tech Stack:** HTML, CSS, JavaScript, .NET, SQL, XML
 #### Selected Responsibilities and Contributions:
 * Responsible for web development and online support
 * ensured the quality and effectiveness of online and campaign work though appropriate processes and checks
@@ -99,7 +98,7 @@ www.betstar.com.au.
 
 ## Communications Management
 #### Web Developer (2004 to 2008)
-**Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
+**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
 #### Selected Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
 * evaluated, audited and analysed the business and user needs to specify what were to be included in the interactive systems and identify how the information was to be organised
@@ -107,7 +106,7 @@ www.betstar.com.au.
 
 ## Astor Hostels – London
 #### Web Master (2002 to 2004)
-**Technologies:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL,
+**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL,
 www.astorhostels.co.uk
 
 #### Selected Responsibilities and Contributions:
@@ -117,7 +116,7 @@ www.astorhostels.co.uk
 
 ## Impressions
 #### IT Manager (2001 to 2002)
-**Technologies:** HTML, CSS, JavaScript, Classic ASP, SQL Server, FoxPro
+**Tech Stack:** HTML, CSS, JavaScript, Classic ASP, SQL Server, FoxPro
 #### Selected Responsibilities and Contributions:
 * Managed the IT department, motivate staff, and effectively communicate plans projects and projects through to upper management.
  
