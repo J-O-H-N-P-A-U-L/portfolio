@@ -34,23 +34,21 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  #### Selected Responsibilities and Contributions
  
-* Develop the JB Hi-Fi Retail Website www.jbhifi.com.au
+* Develop, support and maintain the JB Hi-Fi Retail Website www.jbhifi.com.au
 * Programming the core online stact stack in C#, .NET, AngularJS and jQuery
-* Successfully Implemented a new, decoupled front end stack using React, Webpack, Mocha, Chai and Enzyme based checkout system to provide a whole new range of delivery options:
+* Successfully implemented a new decoupled front end stack using React, Webpack, Mocha, Chai and Enzyme to provide a whole new range of delivery options and payment options to JB Hi-fi's enormous customer base, check it out:
 ![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/2.gif "JB Checkitout!")
 ![JB Hi-Fi](./images/3.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
 
-* Lifehacker write up on this can be seen at:
+* By the way, you can read up on this success over at Lifehacker:
 https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
 ![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
-
-* Developed a jQuery and Bootstrap site for JB Solutions Site www.jbhifi.com.au/solutions.
-![JB Hi-Fi](./images/jb_solutions.png "JB Solutions")
 
 #### Additional Responsibilities and Contributions
 * Worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
 * liaised with key stake holders and project owners to determine requirements and scope of works
 * responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
+
 
 ## Colorado
 #### www.colorado.com.au
