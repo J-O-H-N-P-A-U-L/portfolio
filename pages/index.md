@@ -38,7 +38,6 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 * Programming the core online stact stack in C#, .NET, AngularJS and jQuery
 * Successfully Implemented a new, decoupled front end using a react based checkout system to provide a whole new range of delivery options:
 ![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/3.gif "JB Checkitout!")
-
 ![JB Hi-Fi](./images/2.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
 * Lifehacker write up on this can be seen at:
 https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
