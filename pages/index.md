@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>A Creative Technologist</strong> passionate about creating digital experiences.</p>
+            <p><strong>A Front End Developer</strong> passionate about creating digital experiences.</p>
        </div>
     </div>
     <div style="float:right; width: auto;">
@@ -23,30 +23,35 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
     </div>
 </div>
 
-I am an expert in front end technologies, processes and tools. I thoroughly enjoy designing and building new capabilities relating to online systems.
-
-I have in-depth understanding of agile and waterfall software development life cycles as well as object-oriented design principles and patterns. My team members look to me for thought and project leadership in the context of software development.
+I thoroughly enjoy designing and building new capabilities.
 
 # Relevant experience
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
 #### Front End Developer (March 2015 – present)
-**Technologies:** JavaScript, jQuery, AJAX, Node, React, Relay, GraphQL, AngularJS, Ruby, Middleman, WebdriverIO, Cucumber, Karma, Mocha, Chai, Sinon
+**Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha, Chai, Enzyme, Sinon (and I've even dabbled in C# and .NET)
 
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  #### Selected Responsibilities and Contributions
  
 * Develop the JB Hi-Fi Retail Website www.jbhifi.com.au
-* Support the existing stack (.NET, AngularJS and jQuery)
-* Successfully Implemented a new, decoupled, React based checkout system to provide a whole new range of delivery options. 
+* Programming the core online stact stack in C#, .NET, AngularJS and jQuery
+* Successfully Implemented a new, decoupled front end using a react based checkout system to provide a whole new range of delivery options:
 * Lifehacker write up on this can be seen at:
 https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
 ![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
 
-* Developed a jQuery and Bootstrap integrated JB Hi-Fi Solutions Site www.jbhifi.com.au/solutions.
-![JB Hi-Fi](./images/jb_solutions.png "JB Hi-Fi Solutions")
+And here are some cool gifs:
+![JB Hi-Fi](./images/1.gif "JB Checkitout!)
+![JB Hi-Fi](./images/2.gif "JB Checkitout!)
+![JB Hi-Fi](./images/3.gif "JB Checkitout!)
+![JB Hi-Fi](./images/4.gif "JB Checkitout!)
+
+
+* Developed a jQuery and Bootstrap site for JB Solutions Site www.jbhifi.com.au/solutions.
+![JB Hi-Fi](./images/jb_solutions.png "JB Solutions")
 
 
 #### Additional Responsibilities and Contributions
