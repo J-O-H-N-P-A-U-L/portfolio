@@ -23,8 +23,6 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
     </div>
 </div>
 
-I thoroughly enjoy designing and building new capabilities.
-
 # Relevant experience
 
 ## JB Hi-Fi
