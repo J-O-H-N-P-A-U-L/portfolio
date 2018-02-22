@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>A Front End Developer</strong> passionate about creating digital experiences.</p>
+            <p><strong>An experienced developer</strong> who is passionate about creating digital experiences.</p>
        </div>
     </div>
     <div style="float:right; width: auto;">
