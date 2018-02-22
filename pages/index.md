@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>An experienced developer</strong> who is passionate about creating digital experiences.</p>
+            <p><strong>An experienced and educated professional</strong> who is passionate about creating digital experiences.</p>
        </div>
     </div>
     <div style="float:right; width: auto;">
@@ -44,10 +44,10 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 ![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
 
 And here are some cool gifs:
-![JB Hi-Fi](./images/1.gif "JB Checkitout!)
-![JB Hi-Fi](./images/2.gif "JB Checkitout!)
-![JB Hi-Fi](./images/3.gif "JB Checkitout!)
-![JB Hi-Fi](./images/4.gif "JB Checkitout!)
+![JB Hi-Fi](./images/1.gif "JB Checkitout!")
+![JB Hi-Fi](./images/2.gif "JB Checkitout!")
+![JB Hi-Fi](./images/3.gif "JB Checkitout!")
+![JB Hi-Fi](./images/4.gif "JB Checkitout!")
 
 
 * Developed a jQuery and Bootstrap site for JB Solutions Site www.jbhifi.com.au/solutions.
