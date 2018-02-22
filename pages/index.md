@@ -34,7 +34,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  #### Selected Responsibilities and Contributions
  
-* Develop, support and maintain the JB Hi-Fi Retail Website www.jbhifi.com.au
+* Developing, supporting and maintaining the JB Hi-Fi Retail Website www.jbhifi.com.au
 * Programming the core online stact stack in C#, .NET, AngularJS and jQuery
 * Successfully implemented a new decoupled front end stack using React, Webpack, Mocha, Chai and Enzyme to provide a whole new range of delivery options and payment options to JB Hi-fi's enormous customer base, so check it out!
 
