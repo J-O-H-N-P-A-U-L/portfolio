@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>An experienced and educated professional</strong> who is passionate about creating digital experiences.</p>
+            <p><strong>An experienced and educated developer</strong> who is passionate about creating digital experiences.</p>
        </div>
     </div>
     <div style="float:right; width: auto;">
@@ -27,7 +27,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
-#### Front End Developer (March 2015 – present)
+#### Developer (March 2015 – present)
 **Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha, Chai, Enzyme, Sinon (and I've even dabbled in C# and .NET)
 
 
