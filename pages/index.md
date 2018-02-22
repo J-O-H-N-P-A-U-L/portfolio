@@ -43,9 +43,9 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 
 And here are some cool gifs:
 
-![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/2.gif "JB Checkitout!")
+![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/3.gif "JB Checkitout!")
 
-![JB Hi-Fi](./images/3.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
+![JB Hi-Fi](./images/2.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
 
 
 * Developed a jQuery and Bootstrap site for JB Solutions Site www.jbhifi.com.au/solutions.
