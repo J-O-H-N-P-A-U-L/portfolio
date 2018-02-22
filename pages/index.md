@@ -16,11 +16,6 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
             <p><strong>An experienced and educated developer</strong> who is passionate about creating digital experiences.</p>
        </div>
     </div>
-    <div style="float:right; width: auto;">
-       <div>
-           <img height="165px" style="border-radius: 50%" src="https://www.johnpaulhunter.com/images/jp.jpg">
-       </div>
-    </div>
 </div>
 
 # Relevant experience
