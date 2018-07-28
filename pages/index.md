@@ -22,7 +22,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
-#### Developer (March 2015 – present)
+#### Software Engineer (March 2015 – present)
 **Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha, Chai, Enzyme, Sinon (and I've even dabbled in C# and .NET)
 
 
@@ -46,9 +46,9 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 * responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
 
 
-## Colorado
-#### www.colorado.com.au
-#### Front End Developer (2012 to 2015)
+## Fusion Retail Brands Pty Ltd
+#### www.fusionretailbrands.com.au
+#### Software Developer (2012 to 2015)
 **Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
 #### Key Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.colorado.com.au. 
@@ -58,17 +58,9 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 * Developed a jQuery mobile driven Colorado web store
 * development and support of proprietary middleware messaging broker system.
 
-## JAG
-#### www.jag.com.au
-#### Front End Developer (2012 to 2015)
-**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net.
-#### Key Responsibilities and Contributions:
-* JavaScript (jQuery) and VB .Net Development of www.jag.com.au.
-![Jag](./images/jag.png "Jag")
-
 ## Betstar
 #### www.betstar.com.au
-#### Front End Developer (2010 to 2012)
+#### Web Developer (2010 to 2012)
 **Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Key Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications.
@@ -81,7 +73,7 @@ www.betstar.com.au.
 
 ## Hobsons
 #### www.hobsons.com.au
-#### Front End Developer (2008 to 2010)
+#### Web Application Developer (2008 to 2010)
 **Tech Stack:** HTML, CSS, JavaScript, .NET, SQL, XML
 #### Key Responsibilities and Contributions:
 * Responsible for web development and online support
@@ -89,7 +81,7 @@ www.betstar.com.au.
 * researched and administered online solutions to support business initiatives and responsible for maintaining these solutions.
 
 ## Communications Management
-#### Web Developer (2004 to 2008)
+#### Web Programmer (2004 to 2008)
 **Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
 #### Key Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
