@@ -69,7 +69,7 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 ## Betstar
 #### www.betstar.com.au
 #### Web Developer (2010 to 2012)
-**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL, SSRS,
+**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Key Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications.
 www.betstar.com.au.
