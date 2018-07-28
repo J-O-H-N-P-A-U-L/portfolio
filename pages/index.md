@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>Software Engineer </strong> / Front End specialist.</p>
+            <p><strong>Software Engineer </strong>Front End specialist.</p>
        </div>
     </div>
 </div>
