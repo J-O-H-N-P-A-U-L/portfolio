@@ -81,7 +81,7 @@ www.betstar.com.au.
 
 ## Hobsons
 #### www.hobsons.com.au
-#### Web Developer (2008 to 2010)
+#### Web Application Developer (2008 to 2010)
 **Tech Stack:** HTML, CSS, JavaScript, .NET, SQL, SSRS, XML
 #### Key Responsibilities and Contributions:
 * Responsible for web development and online support
@@ -89,7 +89,7 @@ www.betstar.com.au.
 * researched and administered online solutions to support business initiatives and responsible for maintaining these solutions.
 
 ## Communications Management
-#### Software Developer (2004 to 2008)
+#### Web Application Developer (2004 to 2008)
 **Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, SQL Server, DTS, SSIS, SSRS, FoxPro,
 #### Key Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
