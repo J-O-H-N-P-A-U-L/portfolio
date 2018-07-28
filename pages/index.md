@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p><strong>An experienced and educated developer</strong> who is passionate about creating digital experiences.</p>
+            <p><strong>Software Engineer </strong> / Front End specialist.</p>
        </div>
     </div>
 </div>
@@ -23,7 +23,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 ## JB Hi-Fi
 #### www.jbhifi.com.au
 #### Software Engineer (March 2015 – present)
-**Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha, Chai, Enzyme, Sinon (and I've even dabbled in C# and .NET)
+**Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha, Chai, Enzyme, Sinon (and I've even dabbled in C# .NET and Azure Functions)
 
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
@@ -46,10 +46,10 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 * responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
 
 
-## Fusion Retail Brands Pty Ltd
-#### www.fusionretailbrands.com.au
-#### Software Developer (2012 to 2015)
-**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP C# .Net
+## Colorado (Fusion Retail Brands)
+#### www.colorado.com.au
+#### Web Developer (2012 to 2015)
+**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP VB .Net
 #### Key Responsibilities and Contributions:
 * JavaScript (jQuery) and VB .Net Development of www.colorado.com.au. 
 ![Colorado](./images/colorado.png "Colorado")
@@ -58,10 +58,18 @@ https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same
 * Developed a jQuery mobile driven Colorado web store
 * development and support of proprietary middleware messaging broker system.
 
+## JAG (Fusion Retail Brands)
+#### www.jag.com.au
+#### Web Developer (2012 to 2015)
+**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP VB .Net.
+#### Key Responsibilities and Contributions:
+* JavaScript (jQuery) and VB .Net Development of www.jag.com.au.
+![Jag](./images/jag.png "Jag")
+
 ## Betstar
 #### www.betstar.com.au
 #### Web Developer (2010 to 2012)
-**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
+**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL, SSRS,
 #### Key Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications.
 www.betstar.com.au.
@@ -73,16 +81,16 @@ www.betstar.com.au.
 
 ## Hobsons
 #### www.hobsons.com.au
-#### Web Application Developer (2008 to 2010)
-**Tech Stack:** HTML, CSS, JavaScript, .NET, SQL, XML
+#### Web Developer (2008 to 2010)
+**Tech Stack:** HTML, CSS, JavaScript, .NET, SQL, SSRS, XML
 #### Key Responsibilities and Contributions:
 * Responsible for web development and online support
 * ensured the quality and effectiveness of online and campaign work though appropriate processes and checks
 * researched and administered online solutions to support business initiatives and responsible for maintaining these solutions.
 
 ## Communications Management
-#### Web Programmer (2004 to 2008)
-**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, FoxPro
+#### Software Developer (2004 to 2008)
+**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, SQL Server, DTS, SSIS, SSRS, FoxPro,
 #### Key Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
 * evaluated, audited and analysed the business and user needs to specify what were to be included in the interactive systems and identify how the information was to be organised
