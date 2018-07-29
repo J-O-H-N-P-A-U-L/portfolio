@@ -125,7 +125,7 @@ Swinburne University of Technology
 Master of Multimedia(MMm) with a major in Computer Engineering
 
 Completed in 2012
-## Web Development
+## Software Enineering
 I'm an experienced Software Engineer and I love to build and ship apps using Node, JavaScript, .NET, DB's and Web Services. I've also worked with VB, C# and Azure Functions.
 ## Side projects
 When I'm not working on the internet, I love to delve into the obscure and long-forgotten. More recently been delving into the realm of Atari 2600 and Atari Lynx games programming using C++, Assembly code and the CC65 (Cc65 is a compiler for the 6502 which is the processor of the Atari Lynx.) 
