@@ -15,27 +15,17 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 ## JB Hi-Fi
 #### www.jbhifi.com.au
 #### Software Engineer (March 2015 – present)
-**Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha and Enzyme. I’ve also worked with VB, C#, AWS Lambda and Azure Functions.
-
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
- #### Key Responsibilities and Contributions
  
-* Developing, supporting and maintaining the JB Hi-Fi Retail Website www.jbhifi.com.au
-* Programming the core online stack in C#, .NET, AngularJS and jQuery
-* Successfully implemented a new decoupled front end stack using React, Webpack, Mocha, Chai and Enzyme to provide a whole new range of delivery options and payment options to JB Hi-fi's enormous customer base, so check it out!
-
-  ![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/2.gif "JB Checkitout!")
-  ![JB Hi-Fi](./images/3.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
-
-* By the way, you can read up on this massive success over at Lifehacker:
-https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
+ #### Key Responsibilities and Contributions
+*Successfully delivered a new decoupled front end stack for the JB Hi-Fi retail website using a React to provide a new range of delivery and payment options to delight customers. Check out the Lifehacker review at: https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
 ![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
-
-#### Additional Responsibilities and Contributions
-* Worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
-* liaised with key stake holders and project owners to determine requirements and scope of works
+* worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
+* worked with key stake holders and project owners to determine requirements and scope of work
 * responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
+![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/2.gif "JB Checkitout!")
+![JB Hi-Fi](./images/3.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
 
 
 ## Colorado (Fusion Retail Brands)
@@ -82,7 +72,7 @@ www.betstar.com.au.
 
 ## Communications Management
 #### Web Application Developer (2004 to 2008)
-**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, SQL Server, DTS, SSIS, SSRS, FoxPro,
+**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, SQL Server, DTS, SSIS, SSRS, FoxPro
 #### Key Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
 * evaluated, audited and analysed the business and user needs to specify what were to be included in the interactive systems and identify how the information was to be organised
