@@ -10,20 +10,12 @@ description: "Portfolio"
 
 jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER") ~ [LinkedIn](https://www.linkedin.com/in/john-paul-hunter "LinkedIn - JPHUNTER") 
 
-<div>
-    <div style="overflow: hidden;">
-       <div>
-            <p><strong>Software Engineer, </strong>Front End specialist.</p>
-       </div>
-    </div>
-</div>
-
 # Relevant experience
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
 #### Software Engineer (March 2015 – present)
-**Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha, Chai, Enzyme, Sinon (and I've even dabbled in C# .NET and Azure Functions)
+**Tech Stack:** JavaScript, jQuery, AJAX, NodeJS, React, Relay, GraphQL, Ruby, WebdriverIO, Mocha and Enzyme. I’ve also worked with VB, C#, AWS Lambda and Azure Functions.
 
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
