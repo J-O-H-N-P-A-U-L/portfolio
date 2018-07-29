@@ -22,7 +22,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
-#### Front End Developer (March 2015 – present)
+#### Frontend Developer (March 2015 – present)
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  
