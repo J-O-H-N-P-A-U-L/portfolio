@@ -18,7 +18,6 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
     </div>
 </div>
 
-
 # Relevant experience
 
 ## JB Hi-Fi
@@ -33,8 +32,9 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 * worked as a part of a multi-disciplinary team in a fast-paced Agile development environment
 * worked with key stake holders and project owners to determine requirements and scope of work
 * responsible for the front-end architecture, pull request reviews, post-merge deployments, and releases
-![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/2.gif "JB Checkitout!")
-![JB Hi-Fi](./images/3.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
+
+  ![JB Hi-Fi](./images/1.gif "JB Checkitout!")![JB Hi-Fi](./images/2.gif "JB Checkitout!")
+  ![JB Hi-Fi](./images/3.gif "JB Checkitout!")![JB Hi-Fi](./images/4.gif "JB Checkitout!")
 
 
 ## Colorado (Fusion Retail Brands)
