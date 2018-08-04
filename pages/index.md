@@ -106,9 +106,9 @@ Completed in 2012
 I'm an experienced Software Engineer and I love to build and ship apps using Node, JavaScript, VB, C#, .NET, SQL, Databases and Web Services. I've also worked with AWS Lambda and Azure Functions.
 
 ## Hobbies and Interests
-* Coding / Programming – I have strong analytical skills and the desire to learn. I am fortunate in that I’ve successfully transformed this hobby into my professional career. If you're interested in reading about some of my more recent projects check out my coding blog at [Guzzolene](https://www.guzzolene.com "Guzzolene") or, for a more comprehensive view, check out my GitHub profile at https://github.com/jphunter [JPHUNTER](https://github.com/jphunter  "JPHUNTER")
-* Amateur Photography – I’m artistic and patient. I love hitting the streets with my Nikon in hand waiting to snap the perfect shot
-* Travelling – Visiting different countries and exploring the world has given me valuable life experience. I have gained an appreciation for other cultures and it has helped broaden my horizons
-* Hiking – one of my favorite outdoor activities. It helps to keep me focused and to keep a clear head
+* **Coding / Programming** – I have strong analytical skills and the desire to learn. I am fortunate in that I’ve successfully transformed this hobby into my professional career. If you're interested in reading about some of my more recent projects check out my coding blog at [Guzzolene](https://www.guzzolene.com "Guzzolene") or, for a more comprehensive view, check out my GitHub profile at https://github.com/jphunter [JPHUNTER](https://github.com/jphunter  "JPHUNTER")
+* **Amateur Photography** – I’m artistic and patient. I love hitting the streets with my Nikon in hand waiting to snap the perfect shot
+* **Travelling** – Visiting different countries and exploring the world has given me valuable life experience. I have gained an appreciation for other cultures and it has helped broaden my horizons
+* **Hiking** – one of my favorite outdoor activities. It helps to keep me focused and to keep a clear head
 
 This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js")
