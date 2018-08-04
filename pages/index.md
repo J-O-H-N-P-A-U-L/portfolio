@@ -39,7 +39,6 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 ## Colorado (Fusion Retail Brands)
 #### www.colorado.com.au
 #### Web Developer (2012 to 2015)
-**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP VB .Net
 #### Key Responsibilities and Contributions:
 * JavaScript and VB .Net Development of http://www.colorado.com.au
 * delivered a jQuery-mobile driven Colorado web store
@@ -49,7 +48,6 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 ## JAG (Fusion Retail Brands)
 #### www.jag.com.au
 #### Web Developer (2012 to 2015)
-**Tech Stack:** JavaScript, jQuery, SASS, SQL and some development with ASP VB .Net.
 #### Key Responsibilities and Contributions:
 * JavaScript and VB .Net Development of http://www.jag.com.au
 ![Jag](./images/jag.png "Jag")
@@ -57,7 +55,6 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 ## Betstar
 #### www.betstar.com.au
 #### Web Developer (2010 to 2012)
-**Tech Stack:** HTML5, CSS3, JavaScript, jQuery, .NET, SQL
 #### Key Responsibilities and Contributions:
 * Development and support of requirements across all wagering and web applications http://www.betstar.com.au
 * supported and enhanced proprietary web based wagering applications and websites
@@ -67,7 +64,6 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 ## Hobsons
 #### www.hobsons.com.au
 #### Web Application Developer (2008 to 2010)
-**Tech Stack:** HTML, CSS, JavaScript, .NET, SQL, SSRS, XML
 #### Key Responsibilities and Contributions:
 * Delivered a custom online reporting portal using SSRS and SSIS to deliver reporting capabilities to the business
 * Development and delivery of custom web applications
@@ -75,7 +71,6 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 
 ## Communications Management
 #### Web Application Developer (2004 to 2008)
-**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL, SQL Server, DTS, SSIS, SSRS, FoxPro
 #### Key Responsibilities and Contributions:
 * Full programming and design solutions provided to custom build proprietary web systems according to multiple and differing client specific requirements
 * evaluated, audited and analysed the business and user needs to specify what were to be included in the interactive systems and identify how the information was to be organised
@@ -83,9 +78,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 
 ## Astor Hostels – London
 #### Web Master (2002 to 2004)
-**Tech Stack:** HTML, CSS, JavaScript, Classic ASP (VBScript), SQL,
-www.astorhostels.co.uk
-
+#### www.astorhostels.co.uk
 #### Key Responsibilities and Contributions:
 * Development and support of all  web sites
 * implemented a new booking engine
@@ -93,7 +86,6 @@ www.astorhostels.co.uk
 
 ## Impressions
 #### IT Manager (2001 to 2002)
-**Tech Stack:** HTML, CSS, JavaScript, Classic ASP, SQL Server, FoxPro
 #### Key Responsibilities and Contributions:
 * Managed the organisations IT requirements  and effectively communicate plans projects and projects through to upper management.
  
@@ -111,10 +103,12 @@ Master of Multimedia(MMm) with a major in Computer Engineering
 
 Completed in 2012
 ## Software Enineering
-I'm an experienced Software Engineer and I love to build and ship apps using Node, JavaScript, .NET, DB's and Web Services. I've also worked with VB, C# AWS Lambda and Azure Functions.
-## Side projects
-When I'm not working on the internet, I love to delve into the obscure and long-forgotten. More recently been delving into the realm of Atari 2600 and Atari Lynx games programming using C++, Assembly code and the CC65 (Cc65 is a compiler for the 6502 which is the processor of the Atari Lynx.) 
-If youre interested in reading about my adventures, You ought to check out my blog @
-[Guzzolene](https://www.guzzolene.com "Guzzolene")
+I'm an experienced Software Engineer and I love to build and ship apps using Node, JavaScript, VB, C#, .NET, SQL, Databases and Web Services. I've also worked with AWS Lambda and Azure Functions.
+
+## Hobbies and Interests
+* Coding / Programming – I have strong analytical skills and the desire to learn. I am fortunate in that I’ve successfully transformed this hobby into my professional career. If you're interested in reading about some of my more recent projects check out my coding blog at [Guzzolene](https://www.guzzolene.com "Guzzolene") or, for a more comprehensive view, check out my GitHub profile at https://github.com/jphunter [JPHUNTER](https://github.com/jphunter  "JPHUNTER")
+* Amateur Photography – I’m artistic and patient. I love hitting the streets with my Nikon in hand waiting to snap the perfect shot
+* Travelling – Visiting different countries and exploring the world has given me valuable life experience. I have gained an appreciation for other cultures and it has helped broaden my horizons
+* Hiking – one of my favorite outdoor activities. It helps to keep me focused and to keep a clear head
 
 This site is built with [Gatsby.js](https://github.com/gatsbyjs/gatsby "Gatsby.js") and [Typography.js](https://kyleamathews.github.io/typography.js/ "Typography.js")
