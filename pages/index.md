@@ -13,7 +13,7 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p>A software engineer with a demonstrated history of working in the web development industry.</p>
+            <p>A software engineer with a very strong set of technical skills.</p>
        </div>
     </div>
 </div>
