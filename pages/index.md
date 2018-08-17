@@ -29,7 +29,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
  #### Key Responsibilities and Contributions
 * Successfully delivered a new front end stack for the JB Hi-Fi retail website to provide a new range of delivery and payment options to delight end-users of the retail website. Online sales grew 32.1% to $209.9 million or 4.6% of total sales, largely due to these improvements. Check out our Lifehacker review at:  https://www.lifehacker.com.au/2017/11/the-amazon-effect-jb-hi-fi-now-offers-same-day-delivery/
 ![JB Hi-Fi](./images/lifehacker.png "The Amazon Effect: JB Hi-Fi Now Offers Same-Day Delivery")
-* A key member of the development squad responsible for the launch of the new JB HiFi New Zealand website, resulting in online sales in New Zealand growing 96.3% to NZD9.6 million or 4.1% of total sales.
+* a key member of the development squad responsible for the launch of the new JB HiFi New Zealand website, resulting in online sales in New Zealand growing 96.3% to NZD9.6 million or 4.1% of total sales.
 * worked as a part of a multi-disciplinary team as a front end specialist in a fast paced agile development environment
 * liaised with key stake holders and project owners to determine requirements and scope of work
 
