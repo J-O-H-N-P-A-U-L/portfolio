@@ -103,7 +103,7 @@ Swinburne University of Technology
 Master of Multimedia(MMm) with a major in Computer Engineering
 
 Completed in 2012
-## Software Enineering
+## Software Engineering
 I'm an experienced Software Engineer and I love to build and ship apps using Node, JavaScript, VB, C#, .NET, SQL, Databases and Web Services. I've also worked with AWS Lambda and Azure Functions.
 
 ## Hobbies and Interests
