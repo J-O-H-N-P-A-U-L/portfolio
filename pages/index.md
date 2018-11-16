@@ -13,16 +13,43 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
 <div>
     <div style="overflow: hidden;">
        <div>
-            <p>A software engineer with a demonstrated history of working in web development.</p>
+            <p>A Systems Developer with a demonstrated history of working in web development.</p>
+       </div>
+    </div>
+     <div style="float:right; width: auto;">
+       <div>
+           <img height="200px" style="border-radius: 50%" src="https://www.johnpaulhunter.com/images/sew-profile.jpg">
        </div>
     </div>
 </div>
 
 # Professional Experience
+## South East Water
+#### www.southeastwater.com.au
+#### Systems Developer - Liveable Water Solutions (October 2018 – present)
+
+South East Water provides water and sewerage services to approximately 1.3 million people in the south-east of greater Melbourne, covering an area of 3640 square kilometres, ranging from Port Melbourne to Portsea and Mordialloc to some 40 kilometres east of Berwick.
+
+My role is to embed the outputs of analytical models into tools that support the efficient and effective delivery and monitoring of South East Water's asset renewals programs, reliability asset management plans and associated inspection programs. 
+ 
+ #### Key Responsibilities and Contributions
+ Development and maintenance of web applications using R Shiny, PowerBI, Flex Dashboard and SQL to support the following: 
+*	Planning and delivery of water main and sewer main renewals
+*	dashboards to monitor the effectiveness of various asset management plans
+*	monitoring and sharing the results of various research programs
+*	monitoring and reporting on the quality of critical data items 
+*	assistance with the preparation of various R Markdown documents
+*	use of Git repositories to manage apps and R markdown documents
+*	assistance with data extraction, ingestion, visualisation and general data munging to support model building activities
+*	spatial visualisation and analysis of assets
+*	development of the underlying tool set
+*	ensure that analytical work can be repeated and common tasks are undertaken in a consistent manner
+*	support various projects related to asset information management, process improvement and asset performance monitoring
+*	stakeholder training, advice and support to ensure the effective and efficient use of tooling
 
 ## JB Hi-Fi
 #### www.jbhifi.com.au
-#### Software Engineer (March 2015 – present)
+#### Software Developer (March 2015 – September 2018)
 
 JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplier of video games and of Blu-rays, DVDs, and CDs. It is a chain store operation headquartered in Melbourne.
  
