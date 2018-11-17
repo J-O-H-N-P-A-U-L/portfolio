@@ -130,6 +130,12 @@ Swinburne University of Technology
 Master of Multimedia Technology majoring in Computer Engineering
 
 Completed in 2012
+
+Swinburne University of Technology
+
+Professional Certificate in ICT - Web Applications Development
+
+Completed in 2009
 ## Software Engineering
 I'm an experienced Software Engineer and I love to build and ship apps using JavaScript, AJAX, Transact-SQL (T-SQL), Spatial Databases, R, R Shiny, R Markdown, Leaflet, Flex Dashboard and Geographic Information Systems (GIS).
 
