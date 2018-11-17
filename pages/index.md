@@ -127,7 +127,7 @@ JB Hi-Fi is an Australian retailer of consumer electronics, as well as a supplie
 ## Education
 Swinburne University of Technology
 
-Master of Multimedia(MMm) with a major in Computer Engineering
+Master of Multimedia Technology majoring in Computer Engineering
 
 Completed in 2012
 ## Software Engineering
