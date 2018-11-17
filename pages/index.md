@@ -131,7 +131,7 @@ Master of Multimedia Technology majoring in Computer Engineering
 
 Completed in 2012
 ## Software Engineering
-I'm an experienced Software Engineer and I love to build and ship apps using Node, JavaScript, VB, C#, .NET, SQL, Databases and Web Services. I've also worked with AWS Lambda and Azure Functions.
+I'm an experienced Software Engineer and I love to build and ship apps using JavaScript, AJAX, Transact-SQL (T-SQL), Spatial Databases, R, R Shiny, R Markdown, Leaflet, Flex Dashboard and Geographic Information Systems (GIS).
 
 ## Hobbies and Interests
 * **Coding / Programming** – I have strong analytical skills and the desire to learn. I am fortunate in that I’ve successfully transformed this hobby into my professional career. If you're interested in reading about some of my more recent projects check out my coding blog at [Guzzolene](https://www.guzzolene.com "Guzzolene") or, for a more comprehensive view, check out my GitHub profile at https://github.com/jphunter [JPHUNTER](https://github.com/jphunter  "JPHUNTER")
