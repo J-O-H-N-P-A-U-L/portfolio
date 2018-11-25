@@ -16,11 +16,11 @@ jp.hunter@aol.com ~ [Github](https://www.github.com/JPHUNTER "Github - JPHUNTER"
             <p>A Systems Developer with a demonstrated history of working in web development.</p>
        </div>
     </div>
-     <div style="float:right; width: auto;">
+     <!-- <div style="float:right; width: auto;">
        <div>
            <img height="200px" style="border-radius: 50%" src="https://www.johnpaulhunter.com/images/sew-profile.jpg">
        </div>
-    </div>
+    </div> -->
 </div>
 
 # Professional Experience
